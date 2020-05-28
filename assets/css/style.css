@@ -269,6 +269,20 @@ footer a {
 
 /* MEET THE TRAINERS - END */
 
+/* SERVICE PLANS - START */
+.service-grid-container {
+  display: grid;
+}
+
+.service-grid-item {
+  width: 200px;
+  height: 50px;
+  background-color: orange;
+  border: solid;
+  color: black;
+}
+/* SERVICE PLANS - END */
+
 /* REACH OUT STYLES - START */
 .contact {
     background: #024e76;
@@ -463,3 +477,4 @@ footer a {
     order: 3;
   }
 }
+
